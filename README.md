@@ -93,4 +93,5 @@ async function generatePrompt(userPrompt) {
 }
 
 ```
+## WEB-VIEW
 ![Web View](images/view.png)
